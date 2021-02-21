@@ -2,7 +2,6 @@
 
 Va Computing is an App to calculate Math Equations after a specific time
 
-[![CircleCI](https://circleci.com/gh/Muhammadyoussef/weatherio.svg?style=svg&circle-token=a3c92f89946748e28d5cc41dd6fcf619a4c6c690)](https://circleci.com/gh/Muhammadyoussef/weatherio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Screenshots](screenshots/screen_shot.png "Screenshots")
